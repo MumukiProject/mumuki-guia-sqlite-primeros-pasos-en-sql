@@ -22,7 +22,7 @@ Dada la tabla **ejemplar**
 
 > Escribir la sentencia que permita modificar
 > la estructura de la tabla **ejemplar**
-> agregando el atributo _anio_ con tipo `string`
+> agregando el atributo `anio` con tipo `string`
 > correspondiente al año de edición.
 > 
 > A continuación escriba la sentencia que seleccione
