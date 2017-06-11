@@ -1,4 +1,7 @@
-select * from test1;
+select * from motores;
 -- DATASET
-INSERT INTO test1 (name) values ('Name 1');
-INSERT INTO test1 (name) values ('Name 2');
+INSERT INTO motores (nombre) values ('MySQL');
+INSERT INTO motores (nombre) values ('PostgreSQL');
+INSERT INTO motores (nombre) values ('Oracle');
+INSERT INTO motores (nombre) values ('Microsoft SQL Server');
+INSERT INTO motores (nombre) values ('SQLite');

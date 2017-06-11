@@ -1,18 +1,8 @@
+Antes de comenzar a tirar sentencias a lo hacker vamos
+a verificar que todo funcione.
 
-Ejercicio base usado en el primer test de integración del runner de sqlite.
+Contamos con una tabla llamada `motores` que contiene
+los nombres de distintos motores de bases de datos relacionales.
 
-Se cuenta con una base de datos llamada `test1` con la siguiente estructura:
-
- - **id**: _PK_, _AUTO_
- - **name**: _VARCHAR(200)_, _NOT NULL_
-
-La tabla `test1` contiene 2 registros:
-
-   id | name
-  ----|--------
-    1 | Name 1 
-    2 | Name 2 
-
-El ejercicio requiere generar una consulta que retorne todos los registros de la tabla.
-
-Hint: Escribí `select * from test1;`
+Para obtenerlos, copiá y pegá `select * from motores;`
+en el editor; luego presioná **Enviar**

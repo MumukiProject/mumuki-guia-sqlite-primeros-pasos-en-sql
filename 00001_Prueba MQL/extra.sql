@@ -1,4 +1,4 @@
-CREATE TABLE test1 (
+CREATE TABLE motores (
   id integer primary key,
-  name varchar(200) NOT NULL
+  nombre varchar(200) NOT NULL
 );
