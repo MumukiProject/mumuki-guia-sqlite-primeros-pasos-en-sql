@@ -1,4 +1,4 @@
-Copyright Leandro Di Lorenzo and contributors
+Copyright Leandro Di Lorenzo & UNQ-BBDD Team and contributors
 
 This content consists of voluntary contributions made by many
 individuals. For exact contribution history, see its revision history
