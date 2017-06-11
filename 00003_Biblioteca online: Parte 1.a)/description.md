@@ -3,7 +3,7 @@ table { font-size: 14px; }
 td { line-height: 0.2 !important; }
 </style>
 
-> Este ejercicio es parte de la guía utilizada en la materia Bases de Datos de la Universidad Nacional de quilmes. Ver [Práctica 6 - SQL](http://basesdedatos.web.unq.edu.ar/wp-content/uploads/sites/87/2017/05/practica-sql.pdf).
+> Este ejercicio es parte de la guía utilizada en la materia Bases de Datos de la Universidad Nacional de Quilmes. Ver [Práctica 6 - SQL](http://basesdedatos.web.unq.edu.ar/wp-content/uploads/sites/87/2017/05/practica-sql.pdf).
 
 Se cuenta con las siguientes tablas y datos:
 
