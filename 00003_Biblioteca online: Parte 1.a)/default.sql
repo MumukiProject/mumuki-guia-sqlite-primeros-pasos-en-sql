@@ -1,1 +1,1 @@
-select 'none';
+select 'ok' as prueba;
