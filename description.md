@@ -1,0 +1,1 @@
+Guía de ejemplo con la que daremos nuestros primeros pasos en SQL.
