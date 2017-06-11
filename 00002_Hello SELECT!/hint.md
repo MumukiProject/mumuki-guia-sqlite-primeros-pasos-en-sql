@@ -1,0 +1,1 @@
+¿Ya probaste escribiendo un `select * ...`?

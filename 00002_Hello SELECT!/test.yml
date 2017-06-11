@@ -1,0 +1,6 @@
+select * from bolitas;
+-- DATASET
+INSERT INTO bolitas (color) values ('Verde');
+INSERT INTO bolitas (color) values ('Rojo');
+INSERT INTO bolitas (color) values ('Azul');
+INSERT INTO bolitas (color) values ('Negro');
