@@ -5,7 +5,7 @@ para interactuar con las bases de datos. La estructura más básica tiene esta p
 SELECT * FROM <nombre-de-la-tabla>;
 ```
 
-Eso se traduce como: _Seleccioná todos los campos de la tabla nombre-de-la-tabla_
+Eso se traduce como: _Seleccionar todos los campos de la tabla nombre-de-la-tabla_
 
 En **SQL** es extremadamente importante respetar
 la estructura de la sentencia. **No es lo mismo**
