@@ -1,5 +1,5 @@
 <style>
-.table { font-size: 12px; }
+.table { font-size: 14px; }
 .table td { line-height: 1 !important; }
 </style>
 
