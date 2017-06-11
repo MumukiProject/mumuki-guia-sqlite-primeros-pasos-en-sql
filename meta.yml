@@ -1,9 +1,10 @@
 ---
-name: Primeros Pasos en SQL
+name: Primeros pasos en SQL
 locale: es
 type: learning
 beta: false
-teacher_info: ''
+teacher_info: Trabajo de Inserción Profesional, Universidad Nacional de Quilmes, Julio
+  2017
 language: sqlite
 id_format: "%05d"
 order:
