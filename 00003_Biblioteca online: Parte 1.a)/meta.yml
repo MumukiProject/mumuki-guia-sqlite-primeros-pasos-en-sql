@@ -1,7 +1,7 @@
 ---
 tags: []
 layout: input_right
-editor: hidden
+editor: text
 type: problem
 extra_visible: true
 language: 
