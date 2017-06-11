@@ -1,0 +1,4 @@
+ALTER TABLE ejemplar
+ADD anio string;
+
+select * from ejemplar;
